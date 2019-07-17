@@ -1,0 +1,7 @@
+C:\Users\Furkan Alperen\source\repos\ogrenci_dosyaIslemleri\ogrenci_dosyaIslemleri\bin\Debug\ogrenci_dosyaIslemleri.exe.config
+C:\Users\Furkan Alperen\source\repos\ogrenci_dosyaIslemleri\ogrenci_dosyaIslemleri\bin\Debug\ogrenci_dosyaIslemleri.exe
+C:\Users\Furkan Alperen\source\repos\ogrenci_dosyaIslemleri\ogrenci_dosyaIslemleri\bin\Debug\ogrenci_dosyaIslemleri.pdb
+C:\Users\Furkan Alperen\source\repos\ogrenci_dosyaIslemleri\ogrenci_dosyaIslemleri\obj\Debug\ogrenci_dosyaIslemleri.csprojAssemblyReference.cache
+C:\Users\Furkan Alperen\source\repos\ogrenci_dosyaIslemleri\ogrenci_dosyaIslemleri\obj\Debug\ogrenci_dosyaIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Alperen\source\repos\ogrenci_dosyaIslemleri\ogrenci_dosyaIslemleri\obj\Debug\ogrenci_dosyaIslemleri.exe
+C:\Users\Furkan Alperen\source\repos\ogrenci_dosyaIslemleri\ogrenci_dosyaIslemleri\obj\Debug\ogrenci_dosyaIslemleri.pdb
